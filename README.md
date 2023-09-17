@@ -13,11 +13,6 @@ The StockPulse Dashboard App is a web application that allows users to access es
 - Tailwind CSS
 - JavaScriopt
 - Finnhub API
-
-# 3. Project Dependencies:
-
- - Installation
-
   
 
 
