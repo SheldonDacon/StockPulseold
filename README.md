@@ -1,6 +1,8 @@
 # StockPulse
 A web application that allows users to access stock market information using the Finnhub API. 
 
+![Example](pictures/StockPulseOverview.png) 
+
 
 # What is the project?
 
@@ -53,6 +55,17 @@ iii. Open selected port on your browser
 
 
 # 6. Demo:
+
+Once the Web browser loads, it should be an empty screen with no company selected:
+
+![start](pictures/empty.png) 
+
+Then select any company in the drop down search bar:
+
+![start](pictures/Selectpicture1.png) 
+
+Then once you hit enter the stock price of the selected stock will appaer along with a graoph of the stock and kits changes within then day, month and year. The most recent news helaines about the company will also be shown along with the the the news sources.
+![Last](pictures/StockPulseOverview.png) 
 
 
 
