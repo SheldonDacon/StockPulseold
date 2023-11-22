@@ -45,7 +45,7 @@ REACT_APP_API_KEY = "(your finhub api key)"
 
 i. Open project in preferred IDE. I'm using VSCode.
 
-ii. Run the live server using uvicorn.
+ii. Run the live server.
 
 ```commandline
 - npm start
